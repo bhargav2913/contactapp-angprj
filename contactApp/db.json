@@ -1,0 +1,67 @@
+{
+    "contacts":[
+        {
+            "id":"tc1",
+            "name":"Bhargav",
+            "company":"Vanward",
+            "email":"bhargav@gmail.com",
+            "title":"Angular Devaloper",
+            "mobile":"9088989908",
+            "photo":"https://www.pinkvilla.com/imageresize/when_thalapathy_vijay_turned_down_the_offer_to_act_in_this_superhit_movie_of_director_shankar.jpg?width=752&format=webp&t=pvorg",
+            "groupId":"2"
+        },
+        {
+            "id":"tc2",
+            "name":"Bharath",
+            "company":"VIT",
+            "email":"bharath@gmail.com",
+            "title":"Devaloper",
+            "mobile":"9900809908",
+            "photo":"https://assets.thehansindia.com/h-upload/2021/05/04/1074397-vijay.jpg",
+            "groupId":"1"
+        },
+        {
+            "id":"tc3",
+            "name":"Santosh",
+            "company":"Lg",
+            "email":"santosh@gmail.com",
+            "title":"Tester",
+            "mobile":"6362924398",
+            "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb8oD2FIrMVpqdLzN7ZEPlGB_8W9GGEAKaDJH4NHqAAkCarLU8i0CO5-d18LTIeCcu4ZE&usqp=CAU",
+            "groupId":"2"
+        },
+        {
+            "id":"tc4",
+            "name":"Swathi",
+            "company":"Deliforce",
+            "email":"swathi@gmail.com",
+            "title":"Web Devaloper",
+            "mobile":"9010409489",
+            "photo":"https://cdnb.artstation.com/p/assets/images/images/032/108/109/large/dinesh-dk-ajith.jpg?1605514895",
+            "groupId":"1"
+        }
+
+    ],
+    "groups":[
+        {
+            "id":"1",
+            "name":"Collegue"
+        },
+        {
+            "id":"2",
+            "name":"Family"
+        },
+        {
+            "id":"3",
+            "name":"Friends"
+        },
+        {
+            "id":"4",
+            "name":"Service"
+        },
+        {
+            "id":"5",
+            "name":"Social"
+        }
+    ]
+}
